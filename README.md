@@ -9,7 +9,7 @@ I'm a self-taught passionate developer. I primarily focus on building efficientl
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://klaus-portfolio.netlify.app)
 * ✉️  You can contact me at [shreyasshahu786@gmail.com](mailto:shreyasshahu786@gmail.com)
-* 🧠  I'm learning Angular
+* 🧠  I'm learning Amazon Web Services
 
 ### Skills
 
