@@ -1,10 +1,10 @@
 Hi 👋 My name is Shreyas Shahu
 ==============================
 
-MERN Fullstack Web Developer
+Software Developer
 ----------------------------
 
-I'm a self-taught passionate developer. I primarily focus on building efficiently coded websites and web apps using modern HTML, CSS, JavaScript, and powerful front-end frameworks React, Redux...etc.
+A passionate developer who primarily focus on building efficiently coded websites and web apps using modern HTML, CSS, JavaScript, and powerful front-end frameworks React, Redux...etc.
 
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://klaus-portfolio.netlify.app)
