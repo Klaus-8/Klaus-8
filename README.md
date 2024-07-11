@@ -9,7 +9,7 @@ A passionate developer who primarily focus on building efficiently coded website
 * 🌍  I'm based in India
 * 🖥️  See my portfolio at [My Portfolio](http://klaus-portfolio.netlify.app)
 * ✉️  You can contact me at [shreyasshahu786@gmail.com](mailto:shreyasshahu786@gmail.com)
-* 🧠  I'm learning Amazon Web Services
+* 🧠  I'm learning React Native
 
 ### Skills
 
